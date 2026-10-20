@@ -1,5 +1,9 @@
-## Hi there 👋
-adam here
+# Main Title
+## Section Title
+### Subsection
+
+**Bold text**
+*Italic text*
 
 <!--
 **admnhqim/admnhqim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

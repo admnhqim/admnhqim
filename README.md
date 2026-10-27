@@ -19,5 +19,5 @@ I chose Data Engineering because it sits at the sweet spot where software crafts
 
 ### Socials
 
-[![GitHub]([https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puterianisannisa](https://github.com/admnhqim/admnhqim).
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/adamnurhaqimabdulmutalib](https://www.linkedin.com/in/adam-nur-haqim-abdul-mutalib-a25518445?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/puterianisannisa](https://github.com/admnhqim/admnhqim/blob/main/README.md))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/puterianisannisa](https://www.linkedin.com/in/adam-nur-haqim-abdul-mutalib-a25518445?utm_source=share_via&utm_content=profile&utm_medium=member_ios))

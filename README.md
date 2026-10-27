@@ -6,7 +6,7 @@
 - Section: Section 04
 
 #I am part of the School of Computing UTM , degree student of Data Engineering course
-#I chose Data Engineering because it sits at the sweet spot where software craftsmanship meets data science. I thrive on bringing clarity to chaos—architecting raw, fragmented data into seamless streams that drive meaningful action.
+I chose Data Engineering because it sits at the sweet spot where software craftsmanship meets data science. I thrive on bringing clarity to chaos—architecting raw, fragmented data into seamless streams that drive meaningful action.
 -
 
 <!--

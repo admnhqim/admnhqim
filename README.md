@@ -1,28 +1,12 @@
-# SCST1133 Digital Tools
+# HI,MY NAME IS ADAM👋
 
 ## Student Information
 - Name: ADAM NUR HAQIM BIN ABDUL MUTALIB
 - Matric Number: A26CS0017
 - Section: Section 04
 
-## Course Information
-- Course: SCST1133 Data Engineering Ecosystem
-- Lecturer: Assoc. Prof. Dr. Mohd Shahizan Othman
-
-## Digital Tools
-### GitHub
--
-
-### Figma
--
-
-### Google Stitch
--
-
-### Google Vids
--
-
-## Reflection
+#I am part of the School of Computing UTM , degree student of Data Engineering course
+#I chose Data Engineering because it sits at the sweet spot where software craftsmanship meets data science. I thrive on bringing clarity to chaos—architecting raw, fragmented data into seamless streams that drive meaningful action.
 -
 
 <!--
